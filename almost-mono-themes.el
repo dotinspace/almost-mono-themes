@@ -35,9 +35,9 @@
 	      (weak	  . "#888888")
 	      (weaker	  . "#dddddd")
 	      (weakest    . "#efefef")
-	      (highlight  . "#fda50f")
-	      (warning	  . "#ff0000")
-	      (success	  . "#00ff00")
+	      (highlight  . "#f1d217")
+	      (warning	  . "#d23d3d")
+	      (success	  . "#98c379")
 	      (string     . "#3c5e2b")))
 
     (black . ((background . "#000000")
@@ -45,11 +45,11 @@
 	      (weak	  . "#aaaaaa")
 	      (weaker	  . "#666666")
 	      (weakest	  . "#222222")
-	      (highlight  . "#fda50f")
-	      (warning	  . "#ff0000")
-	      (success	  . "#00ff00")
+              (highlight  . "#f1d217")
+	      (warning	  . "#d23d3d")
+	      (success	  . "#98c379")
 	      (string     . "#a7bca4")))
-
+    
     (gray .  ((background . "#2b2b2b")
 	      (foreground . "#ffffff")
 	      (weak	  . "#aaaaaa")
