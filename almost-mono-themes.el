@@ -45,11 +45,11 @@
 	      (weak	  . "#aaaaaa")
 	      (weaker	  . "#666666")
 	      (weakest	  . "#222222")
-              (highlight  . "#f1d217")
+              (highlight  . "#D5BE31")
 	      (warning	  . "#d23d3d")
 	      (success	  . "#98c379")
 	      (string     . "#a7bca4")))
-    
+
     (gray .  ((background . "#2b2b2b")
 	      (foreground . "#ffffff")
 	      (weak	  . "#aaaaaa")
