@@ -95,7 +95,7 @@
       ;; default
       (default (:background ,background :foreground ,foreground))
       (fringe  (:background ,background))
-      (region  (:background ,highlight  :foreground ,foreground))
+      (region  (:background ,highlight  :foreground ,background))
       (show-paren-match (:background ,background :foreground ,success :bold t))
       (show-paren-mismatch (:background ,background :foreground ,warning :bold t))
       (minibuffer-prompt (:weight bold :foreground ,foreground))
